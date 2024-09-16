@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.faf21137.css",
+    "main.js": "/static/js/main.d9630840.js",
+    "static/js/453.80fc6c34.chunk.js": "/static/js/453.80fc6c34.chunk.js",
+    "static/media/IBMPlexSansArabic-Bold.ttf": "/static/media/IBMPlexSansArabic-Bold.4414bb5d273289a53e78.ttf",
+    "static/media/IBMPlexSansArabic-SemiBold.ttf": "/static/media/IBMPlexSansArabic-SemiBold.6a4c85b48b7bc4e1a4a0.ttf",
+    "static/media/IBMPlexSansArabic-Medium.ttf": "/static/media/IBMPlexSansArabic-Medium.6967e0c92c5b542330be.ttf",
+    "static/media/IBMPlexSansArabic-Thin.ttf": "/static/media/IBMPlexSansArabic-Thin.877f146ad56bbcbdde53.ttf",
+    "static/media/IBMPlexSansArabic-ExtraLight.ttf": "/static/media/IBMPlexSansArabic-ExtraLight.c881763b75182057abfe.ttf",
+    "static/media/IBMPlexSansArabic-Light.ttf": "/static/media/IBMPlexSansArabic-Light.4594b40b8125b447b4b7.ttf",
+    "static/media/IBMPlexSansArabic-Regular.ttf": "/static/media/IBMPlexSansArabic-Regular.dae364fb9c2b717518c7.ttf",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.faf21137.css.map": "/static/css/main.faf21137.css.map",
+    "main.d9630840.js.map": "/static/js/main.d9630840.js.map",
+    "453.80fc6c34.chunk.js.map": "/static/js/453.80fc6c34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faf21137.css",
+    "static/js/main.d9630840.js"
+  ]
+}
